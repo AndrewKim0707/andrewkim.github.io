@@ -1,8 +1,3 @@
-layout: page
-title: andrewkim.github.io
-permalink: /about/information
-
-
 ---
 About Me
 ---
